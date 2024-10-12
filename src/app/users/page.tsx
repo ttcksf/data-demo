@@ -1,4 +1,4 @@
-// npx create-next-app@latest data-demo
+// npm i json-server@0.17.4 --save-dev
 
 type User = {
   id: number;
